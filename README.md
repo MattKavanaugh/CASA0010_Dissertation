@@ -1,6 +1,6 @@
 # CASA0010_Dissertation
 
-The objectives of this analysis are:
+The objectives of this dissertaiton is:
 1. To create a Land Development Model (LDM) for Turin, Italy;
 2. To integrate outputs of the HARMONY Land Use Transportation Interaction Model (LUTI) into the LDM; and
 3. To determine what sort of insights can be gained, and at what spatial extent.
