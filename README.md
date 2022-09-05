@@ -1,6 +1,6 @@
 # CASA0010_Dissertation
 
-The objectives of this dissertaiton is:
+The objectives of this dissertation are:
 1. To create a Land Development Model (LDM) for Turin, Italy;
 2. To integrate outputs of the HARMONY Land Use Transportation Interaction Model (LUTI) into the LDM; and
 3. To determine what sort of insights can be gained, and at what spatial extent.
@@ -11,8 +11,11 @@ To carry out the analysis, run the following files in order: NOTE: use the same 
 - 2_data_rasterization.r - This file explains the rasterization. NOTE: completed in QGIS with plans to replicate in code in future.
 - 3_data_modelling.ipynb - This file takes the model input layers
 
-Required Folder Structure: NOTE: the scripts should automatically create this in your working directory.
+NOTE: 
+- due to the size of files invovled, the scripts should automatically download files and none are stored on GitHub.
+- the scripts should automatically create the folder structure in your working directory.
 
+Folder Structure: 
 - 1_data_processing.r
     - raw_data/zipped - data will be downloaded to here
     - raw_data/unzipped - data will be unzipped to here
